@@ -1,0 +1,71 @@
+shapes:
+10 unique options using different shapes and "deflector types" (can be hard, normal, breakable, or soft)
+
+shape01 (white):
+default shape normal deflecting capabilities
+
+shape02 (light-blue):
+longer but farther forward
+
+shape03 (light-green):
+longer but with holes in it
+
+shape04 (pink):
+a bit longer but softer
+
+shape05 (red):
+harder deflect and farther forward
+
+shape06 (yellow):
+like a sideways 'w' or crown type shape, same total length as white
+
+shape07 (dark-blue):
+hamburger shape so like two lines but it's soft but you can build it up by like passing it to yourself
+
+shape08 (orange):
+three seperated deflectors like foosball goalies
+
+shape09 (dark-green):
+suuuuper wide with suuuuper wide gaps
+
+shape10 (purple):
+huge with three layers but almost entirely breakable except for one hard deflecting part in the middle
+
+
+
+
+abilities idea: instead of color determining shape, the color is an identifier of what ability you have.
+the shapes are now entirely unrelated to the color
+abilities are activated by using the left/right arrow keys 
+(being called forward and back due to being reversed when on the opposite side)
+back will always taunt, forward will use your ability
+
+white:
+press forward to do another taunt
+
+light-blue:
+press forward to bump the ball vertically and slow it down a bit
+
+light-green:
+press forward to turn 90 degrees clockwise
+
+pink:
+press forward to make the ball come to you, maybe increasing speed if already headed towards you
+
+red:
+press forward to get closer to the center and maybe increase speed. press again to return to normal
+
+yellow:
+press forward for burst of speed in the direction you're holding
+
+dark-blue:
+press forward to enable gravity on the ball until next hit
+
+orange:
+press forward to disable movement and launch the ball straight ahead horizontally at lightning speed
+
+dark-green:
+press forward to make the ball go up a little
+
+purple:
+press forward for a short delay before swapping shapes with the opponent

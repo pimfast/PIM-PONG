@@ -1,0 +1,3 @@
+title is futura bold at size 200
+buttons are same font at size 50
+i think there was something else at size 25 but now i'm not sure

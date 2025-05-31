@@ -1,0 +1,63 @@
+10 unique options using different shapes and "deflector types" (can be hard, normal, breakable, or soft)
+
+white:
+default shape normal deflecting capabilities
+
+light-blue:
+longer but farther forward
+
+light-green:
+longer but with holes in it
+
+pink:
+a bit longer but softer
+
+red:
+harder deflect and farther forward
+
+yellow:
+like a sideways 'w' or crown type shape, same total length as white
+
+dark-blue:
+hamburger shape so like two lines but it's soft but you can build it up by like passing it to yourself
+
+orange:
+three seperated deflectors like foosball goalies
+
+dark-green:
+suuuuper wide with suuuuper wide gaps
+
+purple:
+huge with three layers but almost entirely breakable except for one hard deflecting part in the middle
+
+10 MORE IDEAS IF I WANNA DO THEM:
+gold:
+just smaller. and golden. aawweessoommee..
+nvm it just flips the paddle sideways. and it's golden. aawweessoommee..
+
+jester:
+it's literally just 1 square but it only needs 1 point to win
+
+rainbow:
+makes the ball rainbow upon hit. rainbow balls go wacky
+
+blood:
+starts so huge it can touch both sides at once but every hit makes it irreversibly smaller
+
+slot machine:
+every hit spins the slots (itself) lucky winners get powerful shots and a 777 shrinks the opponent
+
+hands:
+two hands on the top and bottom of the paddle. grabbing the ball makes the other hand toss a faster one
+
+gun:
+paddle gets replaced with a reticle you freely move around your half of the screen. auto shoots balls.
+
+pinball:
+become two pinball flippers that can be flipped by pressing the buttons. includes a bumper in the middle
+
+dance dance revolution:
+you get a wall that goes from hard to normal to soft to nothing depending on how well you're doing in ddr
+
+black:
+normal but completely impossible to see
