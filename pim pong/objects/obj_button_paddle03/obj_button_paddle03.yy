@@ -1,9 +1,9 @@
 {
-  "resourceType": "GMObject",
-  "resourceVersion": "1.0",
-  "name": "obj_button_paddle03",
+  "$GMObject": "",
+  "%Name": "obj_button_paddle03",
   "eventList": [],
   "managed": true,
+  "name": "obj_button_paddle03",
   "overriddenProperties": [],
   "parent": {
     "name": "Paddle Select",
@@ -27,6 +27,8 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
+  "resourceType": "GMObject",
+  "resourceVersion": "2.0",
   "solid": false,
   "spriteId": {
     "name": "spr_paddlebutton03",

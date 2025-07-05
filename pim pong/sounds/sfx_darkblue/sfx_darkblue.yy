@@ -1,7 +1,6 @@
 {
-  "resourceType": "GMSound",
-  "resourceVersion": "1.0",
-  "name": "sfx_darkblue",
+  "$GMSound": "",
+  "%Name": "sfx_darkblue",
   "audioGroupId": {
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
@@ -11,11 +10,14 @@
   "compression": 0,
   "conversionMode": 0,
   "duration": 1.541208,
+  "name": "sfx_darkblue",
   "parent": {
     "name": "color sounds",
     "path": "folders/Sounds/color sounds.yy",
   },
   "preload": false,
+  "resourceType": "GMSound",
+  "resourceVersion": "2.0",
   "sampleRate": 44100,
   "soundFile": "sfx_darkblue.mp3",
   "type": 0,

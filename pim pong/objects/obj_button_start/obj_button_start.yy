@@ -1,9 +1,9 @@
 {
-  "resourceType": "GMObject",
-  "resourceVersion": "1.0",
-  "name": "obj_button_start",
+  "$GMObject": "",
+  "%Name": "obj_button_start",
   "eventList": [],
   "managed": true,
+  "name": "obj_button_start",
   "overriddenProperties": [],
   "parent": {
     "name": "Buttons",
@@ -27,6 +27,8 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
+  "resourceType": "GMObject",
+  "resourceVersion": "2.0",
   "solid": false,
   "spriteId": {
     "name": "spr_button_start",
