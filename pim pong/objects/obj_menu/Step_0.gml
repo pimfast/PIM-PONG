@@ -112,7 +112,8 @@ if (instance_exists(obj_button_options)) {
 			}
 			if (_confirm == true) {
 				audio_play_sound(sfx_select2,0,0);
-				//volume stuff
+				//volume stuff (using as room teleport for now)
+				room_goto(rm_level01);
 			}
 			break;
 		case obj_button_deletesave.id:

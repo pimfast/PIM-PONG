@@ -40,7 +40,7 @@
     {"name":"sfx_orange","order":4,"path":"sounds/sfx_orange/sfx_orange.yy",},
     {"name":"rm_paddleselect","order":5,"path":"rooms/rm_paddleselect/rm_paddleselect.yy",},
     {"name":"sfx_select","order":14,"path":"sounds/sfx_select/sfx_select.yy",},
-    {"name":"obj_rpgplayer","order":9,"path":"objects/obj_rpgplayer/obj_rpgplayer.yy",},
+    {"name":"obj_player","order":9,"path":"objects/obj_player/obj_player.yy",},
     {"name":"sfx_hit","order":12,"path":"sounds/sfx_hit/sfx_hit.yy",},
     {"name":"obj_game","order":2,"path":"objects/obj_game/obj_game.yy",},
     {"name":"sfx_select2","order":15,"path":"sounds/sfx_select2/sfx_select2.yy",},

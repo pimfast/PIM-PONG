@@ -24,22 +24,22 @@ if (_paddle) {
 	//}
 }
 
-//check if it went so fast that it missed a collision
-var max_length = 500;
-var solid_object = obj_paddle;
+////check if it went so fast that it missed a collision
+//var max_length = 500;
+//var solid_object = obj_paddle;
 
-for(var i = 0; i < max_length; i++){
+//for(var i = 0; i < max_length; i++){
 
-	var lx = x + lengthdir_x(i, obj_ship.image_angle);
-	var ly = y + lengthdir_y(i, obj_ship.image_angle);
+//	var lx = x + lengthdir_x(i, obj_ship.image_angle);
+//	var ly = y + lengthdir_y(i, obj_ship.image_angle);
 
-	if(collision_point(lx, ly, solid_object, false, true)){
-	    break;
-	}
+//	if(collision_point(lx, ly, solid_object, false, true)){
+//	    break;
+//	}
 
-}
+//}
 
-draw_line(x,y,x+xspeed,y+yspeed)
+//draw_line(x,y,x+xspeed,y+yspeed)
 
 
 //bump ceiling/floor

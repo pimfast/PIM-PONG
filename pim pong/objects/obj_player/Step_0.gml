@@ -14,6 +14,10 @@ if (keyboard_check(vk_right)) || (keyboard_check(ord("D"))) {_right = true;}
 if (keyboard_check_pressed(vk_space)) || (keyboard_check_pressed(vk_enter)) || (keyboard_check_pressed(ord("Z"))) {_confirm = true;}
 if (keyboard_check(vk_delete)) || (keyboard_check(vk_backspace)) || (keyboard_check(ord("X"))) {_cancel = true;}
 
+if (keyboard_check_pressed(vk_escape)) {
+	room_goto(rm_menu);
+}
+
 if (canmove == true) {
 	if (_cancel == true) {
 		rnspd = (spd * 2);
